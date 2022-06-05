@@ -4,3 +4,4 @@ No documentation of course (;
 
 
 For examples check `src/example`
+Compile the example with `haxe build.hxml` and navigate to `bin/js/index.html`.
