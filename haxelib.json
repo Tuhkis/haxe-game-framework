@@ -1,0 +1,13 @@
+{
+  "name": "hxgf",
+  "url" : "NOURLYET",
+  "license": "MIT",
+  "tags": ["graphics", "game", "js"],
+  "description": "Haxe Game Framework or HXGF is a bare bones library for quickly creating web games.",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Tuhkis"],
+  "dependencies": {},
+  "main": "example.Main"
+}
