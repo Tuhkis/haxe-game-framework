@@ -4,9 +4,9 @@
   "license": "MIT",
   "tags": ["graphics", "game", "js"],
   "description": "Haxe Game Framework or HXGF is a bare bones library for quickly creating web games.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "classPath": "src/",
-  "releasenote": "Initial release, everything is working correctly.",
+  "releasenote": "New features:\n - Audio support (though requires user interaction before working.) \n - Added nonfilled circles and line rendering.",
   "contributors": ["Tuhkis"],
   "dependencies": {},
   "main": "example.Main"
